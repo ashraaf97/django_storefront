@@ -2,8 +2,8 @@
 
 (Sample Django Complete Project For Reference)
 
-Requirement:
-
+Requirements:
+```sh
 psycopg2
 django
 djangorestframework
@@ -22,4 +22,4 @@ whitenoise
 gunicorn
 dj-database-url
 django-silk
-
+```
